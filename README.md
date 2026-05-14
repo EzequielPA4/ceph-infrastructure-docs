@@ -8,6 +8,6 @@ VERSIÓN CEPH Squid 19.2.3
 Este documento incluye:
 - Instalación base
 - Bondig de Interfaces
-- Borrado OSD
-- iSCSI
+- Preparación de discos para usar OSD
+- iSCSI - Instalación
 - Troubleshooting
