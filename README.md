@@ -69,3 +69,7 @@ ceph-infrastructure-docs/
     ├── 03-network-bonding.md
     └── 04-lvm-snapshots.md
 ```
+ceph installation ubuntu
+cephadm single node
+ceph iscsi setup
+ceph osd provisioning
