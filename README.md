@@ -3,6 +3,8 @@ Runbooks and practical guides for deploying and managing Ceph (single-node setup
 
 # Instalación Ceph - Guía Completa
 
+VERSIÓN CEPH Squid 19.2.3
+
 Este documento incluye:
 - Instalación base
 - Bondig de Interfaces
