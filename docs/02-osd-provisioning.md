@@ -1,5 +1,4 @@
-# Limpieza de disco y creación de OSD en Ceph (cephadm)
-
+# Limpieza de disco y creación de OSD en Ceph
 ## Objetivo
 
 Dejar un disco completamente limpio (sin filesystem, LVM ni particiones) y crear un OSD dedicado utilizando Ceph Orchestrator (cephadm).
@@ -7,8 +6,7 @@ Dejar un disco completamente limpio (sin filesystem, LVM ni particiones) y crear
 ---
 
 ## Alcance
-
-- Aplica a entornos Ceph administrados con cephadm  
+  
 - Discos previamente utilizados (no vírgenes)  
 - No aplica al disco donde está instalado el sistema operativo  
 
