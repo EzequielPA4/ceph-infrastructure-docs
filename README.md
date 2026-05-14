@@ -10,4 +10,5 @@ Este documento incluye:
 - Bondig de Interfaces
 - Preparación de discos para usar OSD
 - iSCSI - Instalación
+- Snapshot
 - Troubleshooting
